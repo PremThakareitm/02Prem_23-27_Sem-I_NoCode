@@ -1,4 +1,8 @@
-ESafetyFIR Application.
+App Name: ESafetyFIR
+
+ "Empowering Reports, Ensuring Safety."
+
+ESafetyFIR is your reliable companion in promoting public safety. Our app simplifies the reporting and tracking of First Information Reports (FIRs). With a user-friendly interface, real-time updates, and secure communication channels, we empower users to contribute to a safer community. Your safety, our priority.
 
 Browser Link
 
